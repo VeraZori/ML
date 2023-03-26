@@ -7,7 +7,7 @@
 ML: sklearn, pandas, numpy API: flask
 
 Задача: предсказать по описанию новости фейковая или реальная. Бинарная классификация
-
+Данные: https://www.kaggle.com/c/fake-news/data
 Используемые признаки:
 
 title (text)
